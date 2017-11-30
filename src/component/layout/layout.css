@@ -1,0 +1,11 @@
+body{
+	/*background: #fff;*/
+}
+.layout{
+	border:1px solid #dcdcdc;
+	width: 33.33%;
+	height: 300px;
+	float: left;
+	box-sizing: border-box;
+	background: #fff;
+}
